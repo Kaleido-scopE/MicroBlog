@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Moment</string>
+    <string name="title_home">Home</string>
+    <string name="title_new">New</string>
+    <string name="title_me">Me</string>
+    <string name="title_share">Share</string>
+</resources>
